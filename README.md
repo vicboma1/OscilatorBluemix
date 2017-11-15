@@ -26,8 +26,8 @@ Esta librería es Tone.js
 
 [![](https://github.com/vicboma1/oscilatorBluemix/blob/master/assets/_oscilatorBluemix.gif)](http://www.youtube.com/watch?v=5SWKVNh-q2c "Oscilador")
 
-## Pasos a seguir 
-### (El código no estará disponible hasta la finalización de la Hackathon)
+### Pasos a seguir 
+#### (El código no estará disponible hasta la finalización de la Hackathon)
 
 1.   Copiar la ![Plantilla txt](https://github.com/vicboma1/oscilatorBluemix/blob/master/assets/_oscilatorBluemix.txt) con "Control A" + "Control C"
 
