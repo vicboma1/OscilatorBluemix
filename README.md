@@ -43,6 +43,12 @@ Esta librería es Tone.js
 
 7.   Configura el nodo IBM IoT Input con la Api Key de tu Universidad.
 
+8.   Para renderizar los componentes del dashboard necesitas instalar la dependencia "node-red-dashboard"
+
+9.   Ir al menú contextual de nuestra aplicación Node-Red -> "Manage Palette" -> Install
+
+10.  Escribimos -> "node-red-dashboard" para Web | "node-red-dashboard-es" para mobile
+
 
 @Author: [Victor Bolinches Marin](https://github.com/vicboma1)  
 
